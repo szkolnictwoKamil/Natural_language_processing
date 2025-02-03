@@ -1,4 +1,4 @@
-# Natural_language_processing
+# Natural language processing
 
 This repository contains eight Jupyter notebooks covering various NLP tasks, along with a ZIP file containing the required dataset. The tasks range from text preprocessing and tokenization to machine learning-based text classification and information retrieval.  
 
